@@ -5664,8 +5664,7 @@ Hah, ha, ha, poor angry
 <speaker>Sir Jaspar</speaker>
 <l>
 Wife, my Lady
-<hi rend="italic">Fidget</hi>
-, Wife, he is coming into you the back way.
+<hi rend="italic">Fidget</hi>, Wife, he is coming into you the back way.
 </l>
 </sp>
 <stage type="act">Sir Jaspar calls through the door to his Wife, she answers from within.</stage>
@@ -5678,7 +5677,7 @@ Wife, my Lady
 <l>He'll catch you, and use you roughly, and be too strong for you.</l>
 </sp>
 <sp>
-<speaker>La Fid.</speaker>
+<speaker>La Fidget</speaker>
 <l>Don't you trouble your self, let him if he can.</l>
 </sp>
 <stage type="desc">[Behind.]</stage>
@@ -5735,7 +5734,7 @@ No —But is there no other way to get into 'em, whither goes this? I will distu
 </l>
 </sp>
 <sp>
-<speaker>Old L. Speamish</speaker>
+<speaker>Old Lady Speamish</speaker>
 <l>
 Where is this Harlotry, this Impudent Baggage, this rambling Tomrigg? O Sir
 <hi rend="italic">Jaspar</hi>, I'm glad to see you here, did you not see my vil'd Grandchild come in hither just now?
@@ -5746,7 +5745,7 @@ Where is this Harlotry, this Impudent Baggage, this rambling Tomrigg? O Sir
 <l>Yes,</l>
 </sp>
 <sp>
-<speaker>Old L. Squeam</speaker>
+<speaker>Old Lady Squeam</speaker>
 <l>
 Ay, but where is she then? where is she? Lord Sir
 <hi rend="italic">Jaspar</hi>
@@ -5758,7 +5757,7 @@ I have e'ne ratled my self to pieces in pursuit of her, but can you tell what sh
 <l>No.</l>
 </sp>
 <sp>
-<speaker>Old L. Speamish</speaker>
+<speaker>Old Lady Speamish</speaker>
 <l>No —What does she here then? say if it be not a womans lodging, what makes she here? but are you sure no woman lodges here?</l>
 </sp>
 <sp>
@@ -5770,7 +5769,7 @@ Lodging.
 </l>
 </sp>
 <sp>
-<speaker>Old L. Speamish</speaker>
+<speaker>Old Lady Speamish</speaker>
 <l>Is it so are you sure?</l>
 </sp>
 <sp>
@@ -5778,7 +5777,7 @@ Lodging.
 <l>Yes, yes.</l>
 </sp>
 <sp>
-<speaker>Old L. Speamish</speaker>
+<speaker>Old Lady Speamish</speaker>
 <l>So then there's no hurt in't I hope, but where is he?</l>
 </sp>
 <sp>
@@ -5786,7 +5785,7 @@ Lodging.
 <l>He's in the next room with my Wife.</l>
 </sp>
 <sp>
-<speaker>Old L. Speamish</speaker>
+<speaker>Old Lady Speamish</speaker>
 <l>
 Nay if you trust him with your wife, I may with my Biddy, they say he's a merry harmless man now, e'ne as harmless a man as ever came out of
 <hi rend="italic">Italy</hi>
@@ -5861,7 +5860,7 @@ Thank you dear Toad.
 </l>
 </sp>
 <sp>
-<speaker>La Fidget</speaker>
+<speaker>Lady Fidget</speaker>
 <l>What do you mean by that promise?</l>
 </sp>
 <sp>
@@ -5872,7 +5871,7 @@ Alas she has an innocent, literal understanding.
 </l>
 </sp>
 <sp>
-<speaker>Old L. Speamish</speaker>
+<speaker>Old Lady Speamish</speaker>
 <l>
 Poor Mr.
 <hi rend="italic">Horner</hi>, he has enough to doe to please you all, I see.
@@ -5883,7 +5882,7 @@ Poor Mr.
 <l>Ay Madam, you see how they use me.</l>
 </sp>
 <sp>
-<speaker>Old L. Speamish</speaker>
+<speaker>Old Ladu Speamish</speaker>
 <l>Poor Gentleman I pitty you.</l>
 </sp>
 <sp>
@@ -5907,7 +5906,7 @@ Come Sloven, I'le lead you to be sure of you.
 </sp>
 <pb n="71"/>
 <sp>
-<speaker>Old L. Speamish</speaker>
+<speaker>Old Lady Speamish</speaker>
 <l>Alas poor man how she tuggs him, kiss, kiss her, that's the way to make such nice women quiet.</l>
 </sp>
 <sp>
@@ -5915,7 +5914,7 @@ Come Sloven, I'le lead you to be sure of you.
 <l>No Madam, that Remedy is worse than the Torment, they know I dare suffer any thing rather than do it.</l>
 </sp>
 <sp>
-<speaker>Old La. Speamish</speaker>
+<speaker>Old Lady Speamish</speaker>
 <l>Prythee kiss her, and I'le give you her Picture in little, that you admir'd so last night, prythee do.</l>
 </sp>
 <sp>
@@ -5976,7 +5975,7 @@ O Lord here's a man, Sir
 <speaker>Lady Fidget</speaker>
 <l>
 Be found in the lodging of any thing like a man, away.
-<stage type="exit">Exeunt Sir Jaspar La, Fid. Old La. Speamish Mrs. Squeamish.</stage>
+<stage type="exit">Exeunt Sir Jaspar, Lady Fidget, Old Lady Speamish, Mrs. Squeamish.</stage>
 </l>
 </sp>
 <sp>
@@ -6719,16 +6718,16 @@ His estate is equal to
 Why she says she would only have you lead her to
 <hi rend="italic">Horners</hi>
 lodging—with whom she first will discourse the matter before she talk with you, which yet she cannot doe; for alack poor creature, she says she can't so much as look you in the face, therefore she'l come to you in a mask, and you must excuse her if she make you no answer to any question of yours, till you have brought her to Mr.
-<hi rend="italic">Horner</hi>, and if you will not chide her, nor question her, she'l come out to you immediately
+<hi rend="italic">Horner</hi>, and if you will not chide her, nor question her, she'l come out to you immediately.
 </l>
 </sp>
 <sp>
 <speaker>Mrs. Pinchwife</speaker>
-<l>Let her come I will not speak a word to her, nor require a word from her</l>
+<l>Let her come I will not speak a word to her, nor require a word from her.</l>
 </sp>
 <sp>
 <speaker>Mrs. Pinchwife</speaker>
-<l>Oh I forgot, besides she says, she cannot look you in the face, though through a mask, therefore wou'd desire you to put out the Candle</l>
+<l>Oh I forgot, besides she says, she cannot look you in the face, though through a mask, therefore wou'd desire you to put out the Candle.</l>
 </sp>
 <sp>
 <speaker>Mr. Pinchwife</speaker>
@@ -6829,7 +6828,7 @@ What here's the man we are talking of I think.
 </sp>
 <sp>
 <speaker>Horner</speaker>
-<l>What means this</l>
+<l>What means this?</l>
 </sp>
 <sp>
 <speaker>Mr. Pinchwife</speaker>
@@ -6845,7 +6844,7 @@ What here's the man we are talking of I think.
 </sp>
 <sp>
 <speaker>Horner</speaker>
-<l>Nothing but the usual question man, <ref target="sound_" corresp="sound">is she sound</ref><note xml:id="sound" target="sound_">free of venereal disease</note>on thy word.</l>
+<l>Nothing but the usual question man, <ref target="sound_" corresp="sound">is she sound</ref><note xml:id="sound" target="sound_">free of venereal disease</note> on thy word.</l>
 </sp>
 <sp>
 <speaker>Mr. Pinchwife</speaker>
@@ -6927,7 +6926,7 @@ What means the Fool? —if she and I agree 'tis no matter what you and I do.
 <speaker>Mr. Pinchwife</speaker>
 <l>
 In the mean time I'le fetch a Parson, and find out
-<hi rend="italic">Spqrkish</hi>
+<hi rend="italic">Sparkish</hi>
 and disabuse him. You wou'd have me fetch a Parson, would you not, well then —Now I think I am rid of her, and shall have no more trouble with her —Our Sisters and Daughters like Usurers money, are safest, when put out; but our Wifes, like their writings, never safe, but in our Closets under Lock and Key.
 <stage type="exit">Exit Mr. Pinchwife</stage>
 <stage type="entrance">Enter Boy.</stage>
@@ -7085,11 +7084,11 @@ He has been a great bubble by his similes as they say —
 </sp>
 <sp>
 <speaker>Alithea</speaker>
-<l>You have been too merry Sir at your wedding dinner sure></l>
+<l>You have been too merry Sir at your wedding dinner sure.</l>
 </sp>
 <sp>
 <speaker>Sparkish</speaker>
-<l>What d'y mock me too?></l>
+<l>What d'y mock me too?</l>
 </sp>
 <sp>
 <speaker>Alithea</speaker>
@@ -8120,7 +8119,7 @@ since, pray ask but these Ladies and Gentlemen, your friend Mr.
 <l>O hold —</l>
 </sp>
 <sp>
-<speaker>Speamish</speaker>
+<speaker>Squeamish</speaker>
 <l>
 Stop her mouth —
 <stage type="aside">Aside to Lucy.</stage>
@@ -8147,7 +8146,7 @@ Upon my honour Sir, 'tis as true.
 This you get, and we too, by trusting your
 <pb n="101"/>
 secret to a fool —
-<stage type="aside">Aside to Hor.</stage>
+<stage type="aside">Aside to Horner</stage>
 </l>
 </sp>
 <sp>
