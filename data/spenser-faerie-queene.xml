@@ -542,7 +542,8 @@ the first part of (14). The second part of (6), bearing date 1612, has been rese
 <div>
 <head><hi rend="italic">Contayning</hi><lb/>THE LEGENDE OF THE<lb/>KNIGHT OF THE RED CROSSE,<lb/><hi rend="italic">OR</hi><lb/>OF HOLINESSE.</head>
 <lg>
-<l n="i">LO I the man, whose Muse whilome did maske,</l>
+<l n="i">LO I the man, whose Muse <ref target="whilome_" corresp="whilome">whilome</ref><note xml:id="whilome" 
+        target="whileome_">at one time, in the past</note> did maske,</l>
 <l>As time her taught, in lowly Shepheards weeds,</l>
 <l>Am now enforst a far vnfitter taske,</l>
 <l>For trumpets sterne to chaunge mine Oaten reeds,</l>
@@ -557,32 +558,46 @@ the first part of (14). The second part of (6), bearing date 1612, has been rese
 <l>Thy weaker Nouice to performe thy will,</l>
 <l>Lay forth out of thine euerlasting scryne</l>
 <l>The antique rolles, which there lye hidden still,</l>
-<l>Of Faerie knights and fairest <hi rend="italic">Tanaquill</hi>,</l>
+<l>Of Faerie knights and fairest <ref target="Tanaquill_" corresp="Tanaquill"><hi rend="italic">Tanaquill</hi></ref>
+    <note xml:id="Tanaquill" target="Tanaquill_">Tanaquill was a legendary Etruscan prophet whose forward-thinking was said to have led to her husband's decision to move to Rome, 
+        where he eventually became Tarquin, the fifth king of Rome. 
+        She is the first of many types for Gloriana, the titular Faerie queen. [RR]</note>,</l>
 <l>Whom that most noble Briton Prince so long</l>
 <l>Sought through the world, and suffered so much ill,</l>
 <l>That I must rue his vndeserued wrong:</l>
-<l>O helpe thou my weake wit, and sharpen my dull tong.</l>
+<l>O helpe thou my weake wit, and sharpen my dull <ref target="tong_" corresp="tong">tong</ref><note xml:id="tong"
+        target="tong_">tongue</note>.</l>
 </lg>
     <pb n="4" facs="pageImages/0032.jpg"/>
 <lg>
-<l n="iii">And thou most dreaded impe of highest <hi rend="italic">Ioue</hi>,</l>
+<l n="iii">And thou most dreaded impe of highest <ref target="Iove_" corresp="Iove"><hi rend="italic">Ioue</hi></ref>
+    <note xml:id="Iove" corresp="Iove_">Jove, or Jupiter, the chief Roman god. Also known as Zeus in 
+    Greek mythology.</note>,</l>
 <l>Faire <hi rend="italic">Venus</hi> sonne, that with thy cruell dart</l>
 <l>At that good knight so cunningly didst roue,</l>
 <l>That glorious fire it kindled in his hart,</l>
-<l>Lay now thy deadly Heben bow apart,</l>
+<l>Lay now thy deadly <ref target="Heben_" corresp="Heben">Heben bow</ref><note xml:id="Heben" target="Heben_">The ebony bow
+that belongs to Cupid, who has been described in the previous lines as the "cruell" son of Venus. [RR]</note> apart,</l>
 <l>And with thy mother milde come to mine ayde:</l>
-<l>Come both, and with you bring triumphant <hi rend="italic">Mart</hi>,</l>
+<l>Come both, and with you bring triumphant <ref target="Mart_" corresp="Mart"><hi rend="italic">Mart</hi></ref>
+    <note xml:id="Mart" target="Mart_">a variant spelling for the god Mars, the Roman god of war. [RR]</note>,</l>
 <l>In loues and gentle iollities arrayd,</l>
 <l>After his murdrous spoiles and bloudy rage allayd.</l>
 </lg>
 <lg>
 <l n="iv">And with them eke, O Goddesse heauenly bright,</l>
-<l>Mirrour of grace and Maiestie diuine,</l>
+<l><ref target="Mirrour_" corresp="Mirrour">Mirrour of grace</ref>
+    <note xml:id="Mirrour" target="Mirrour">"Mirrour" had a metaphorical meaning as a paragon or pattern of virtue; as mirror of grace, she is an earthly reflection of divine grace, as well as an exemplary model of the virtue for the world. [RR]</note>and Maiestie diuine,</l>
 <l>Great Lady of the greatest Isle, whose light</l>
-<l>Like <hi rend="italic">Phœbus</hi> lampe throughout the world doth shine,</l>
-<l>Shed thy faire beames into my feeble eyne,</l>
+<l>Like <ref target="Phoebus_" corresp="Phoebus"><hi rend="italic">Phœbus</hi></ref>
+    <note xml:id="Phoebus" target="Phoebus_">Phoebus Apollo is the god of the sun, so his "lampe" would be the sun itself. [RR]</note>lampe throughout the world doth shine,</l>
+<l>Shed thy faire beames into my feeble <ref target="eyne_" corresp="eyne">eyne</ref>
+    <note xml:id="eyne" target="eyne_">eyes [RR]</note>,</l>
 <l>And raise my thoughts too humble and too vile,</l>
-<l>To thinke of that true glorious type of thine,</l>
+<l>To thinke of that <ref target="type_" corresp="type">true glorious type of thine</ref>
+    <note xml:id="type" target="type_">The poet cannot think on her directly; he must think of her "true glorious type." "Type" is that by which she is figured, symbolized, and signified in the poem. Among several other "shadows," one of Elizabeth's main types is Gloriana, "greatest Glorious Queene of Faery lond" (I.i.3). In the Letter to Raleigh, Spenser writes: "In that Faery Queene I mean glory in my generall intention, but in my particular I conceive the most excellent and glorious person of our soveraine the Queene, and her kingdome in Faery land" (LR lines 32-4).
+        
+        In theological history, "type" was often used to describe the figures of the "Old Testament" that prefigured people and events in the New Testament (their antitypes). [RR]</note>,</l>
 <l>The argument of mine afflicted stile:</l>
 <l>The which to heare, vouchsafe, O dearest dred a-while.</l>
 </lg>
