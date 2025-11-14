@@ -580,7 +580,7 @@ the first part of (14). The second part of (6), bearing date 1612, has been rese
 that belongs to Cupid, who has been described in the previous lines as the "cruell" son of Venus. [RR]</note> apart,</l>
 <l>And with thy mother milde come to mine ayde:</l>
 <l>Come both, and with you bring triumphant <ref target="Mart_" corresp="Mart"><hi rend="italic">Mart</hi></ref>
-    <note xml:id="Mart" target="Mart_">a variant spelling for the god Mars, the Roman god of war. [RR]</note>,</l>
+    <note xml:id="Mart" target="Mart_">A variant spelling for the god Mars, the Roman god of war. [RR]</note>,</l>
 <l>In loues and gentle iollities arrayd,</l>
 <l>After his murdrous spoiles and bloudy rage allayd.</l>
 </lg>
@@ -598,8 +598,12 @@ that belongs to Cupid, who has been described in the previous lines as the "crue
     <note xml:id="type" target="type_">The poet cannot think on her directly; he must think of her "true glorious type." "Type" is that by which she is figured, symbolized, and signified in the poem. Among several other "shadows," one of Elizabeth's main types is Gloriana, "greatest Glorious Queene of Faery lond" (I.i.3). In the Letter to Raleigh, Spenser writes: "In that Faery Queene I mean glory in my generall intention, but in my particular I conceive the most excellent and glorious person of our soveraine the Queene, and her kingdome in Faery land" (LR lines 32-4).
         
         In theological history, "type" was often used to describe the figures of the "Old Testament" that prefigured people and events in the New Testament (their antitypes). [RR]</note>,</l>
-<l>The argument of mine afflicted stile:</l>
-<l>The which to heare, vouchsafe, O dearest dred a-while.</l>
+<l>The argument of mine <ref target="afflicted_" corresp="afflicted">afflicted stile</ref><note xml:id="afflicted" target="afflicted_">
+        "Afflicted" carries a sense from the latin afflictus, to cast down; the stile is a pen. Together, Hamilton glosses the phrase as "humble pen." [RR]    
+</note>:</l>
+<l>The which to heare, <ref target="vouchsafe_" corresp="vouchsafe">vouchsafe</ref><note xml:id="vouchsafe" target="vouchsafe_">
+        To bestow graciously or condescendingly. Here, the poet asks for his dedicatee to "hear" him awhile; to bestow her attention on the poem to follow. [RR]     
+</note>,<ref target="dred_" corresp="dred"> O dearest dred</ref><note xml:id="dred" target="dred_">The poet addresses Elizabeth directly as "O dearest dred. [RR]"</note> a-while.</l>
 </lg>
 </div>
 </div>
@@ -620,25 +624,27 @@ that belongs to Cupid, who has been described in the previous lines as the "crue
 </floatingText>
 <lg>
 <l n="i">A Gentle Knight was pricking on the plaine,</l>
-<l>Y cladd in mightie armes and siluer shielde,</l>
+    <l><ref target="Ycladd_" corresp="Ycladd">Ycladd</ref><note xml:id="Ycladd" target="Ycladd_">Clad; wearing. [RR]</note> in mightie armes and siluer shielde,</l>
 <l>Wherein old dints of deepe wounds did remaine,</l>
-<l>The cruell markes of many’ a bloudy fielde;</l>
+<l>The cruell markes of many’a bloudy fielde;</l>
 <l>Yet armes till that time did he neuer wield:</l>
-<l>His angry steede did chide his foming bitt,</l>
+<l>His angry steede did <ref target="chide_" corresp="chide">chide his foming bitt</ref><note xml:id="chide" target="chide_">
+        The horse angrily chews on his bit, or mouthpiece, the device by which the rider controls his horse. [RR]
+</note>,</l>
 <l>As much disdayning to the curbe to yield:</l>
 <l>Full iolly knight he seemd, and faire did sitt,</l>
-<l>As one for knightly giusts and fierce encounters fitt.</l>
+<l>As one for knightly <ref target="guists_" target="guists">giusts</ref><note xml:id="guists" target="guists_">Jousts. [RR]</note> and fierce encounters fitt.</l>
 </lg>
 <lg>
 <l n="ii">But on his brest a bloudie Crosse he bore,</l>
 <l>The deare remembrance of his dying Lord,</l>
 <l>For whose sweete sake that glorious badge he wore,</l>
 <l>And dead as liuing euer him ador’d:</l>
-<l>Vpon his shield the like was also scor’d,</l>
+<l>Vpon his shield the like was also <ref target="scor'd_" corresp="scor'd">scor’d</ref><note xml:id="scor'd" target="scor'd_">Scored, meaning decorated or carved. [RR]</note>,</l>
 <l>For soueraine hope, which in his helpe he had:</l>
 <l>Right faithfull true he was in deede and word,</l>
 <l>But of his cheere did seeme too solemne sad;</l>
-<l>Yet nothing did he dread, but euer was ydrad.</l>
+<l>Yet nothing did he dread, but euer was <ref target="ydrad_" corresp="ydrad">ydrad</ref><note xml:id="ydrad" target="ydrad_">Dreaded. [RR]</note>.</l>
 </lg>
 <lg>
 <l n="iii">Vpon a great aduenture he was bond,</l>
