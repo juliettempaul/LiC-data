@@ -3878,18 +3878,18 @@
             <note type="gloss" xml:id="quoth" target="_quoth" resp="editors.xml#BC">"Quoth" means
                "Said" in modern day English (OED)</note>
             <note type="gloss" xml:id="shirt" target="_shirt" resp="editors.xml#SA"><graphic
-                  url="notes/shirt.jpg"/>According to the Victoria and Albert Museum, in the 18th
+               url="notes/shirt.jpg" alt="A photograph of an 18th-century linen shirt on a male mannequin" source="https://collections.vam.ac.uk/item/O13939/shirt-unknown/" desc="Men's linen shirt (Great Britain, 1740-1780), Victoria and Albert Museum"/>According to the Victoria and Albert Museum, in the 18th
                century a shirt was a piece of underwear made out of linen. they were usually bought
                in bulk if the owner could afford it so that a clean one could be worn daily. The
                image here shows a man's shirt from the mid 18th century, from the <ref
                   target="https://collections.vam.ac.uk/item/O13939/shirt-unknown/">Victoria and
                   Albert Museum</ref>. </note>
             <note type="gloss" xml:id="Dover" target="_Dover" resp="editors.xml#TH"><graphic
-                  url="notes/HogarthStageCoach.jpg"/>The "<placeName type="tgn" key="7011554"
+               url="notes/HogarthStageCoach.jpg" alt="Print engraving by William Hogarth" source="https://collections.vam.ac.uk/item/O1157910/the-stage-coach-print-hogarth-william/" desc="William Hogarth, 'The Stage Coach (or Country Inn Yard)' (1747), Victoria and Albert Museum"/>The "<placeName type="tgn" key="7011554"
                   >Dover</placeName> stage" is a stage-coach going to <placeName type="tgn"
                   key="7011554">Dover</placeName>. This is how Yorick got to the boat that takes him
                to <placeName type="tgn" key="7009002">Calais</placeName>. Here is an image (1747) by
-               William Hogarth showing a stage-coach in the mid-eighteenth century. Image via <ref
+               William Hogarth showing travelers entering a stage-coach in the mid-eighteenth century. Image via <ref
                   target="https://collections.vam.ac.uk/item/O1157910/the-stage-coach-print-hogarth-william/"
                   >Victoria and Albert Museum</ref>.</note>
             <note type="gloss" xml:id="packet" target="_packet" resp="editors.xml#TH">Given that the
@@ -3899,10 +3899,11 @@
                (Swiss and Scotch excepted) dying in France, are seized by virtue of this law, tho'
                the heir be upon the spot—the profit of these contingencies being farm'd, there is no
                redress. [Sterne's note]</note>
+            <note type="gloss" xml:id="portmanteau" target="_portmanteau" resp="editors.xml#TH">From the French meaning "carry" and "mantle" or "coat," a portmanteau is an early piece of luggage (OED).</note>
             <note type="gloss" xml:id="case" target="_case" resp="editors.xml#FJZ">A leather case or
                traveling bag. During the eighteenth century people used it as a suitcase to pack
                clothing and other necessary accessories for travel.</note>
-            <note type="gloss" xml:id="spleen" target="_spleen" resp="editors.xml#ZE">"Spleen" is a noun
+            <note type="gloss" xml:id="spleen" target="_spleen" resp="editors.xml#ZE">"Spleen" in this case is a noun
                meaning deep anger (OED).</note>
             <note type="gloss" xml:id="Bourbon" target="_Bourbon" resp="editors.xml#ZE">"The Bourbon...race" is a reference to a dynastic French family that long held the throne (OED).</note>
             <note type="gloss" xml:id="livre" target="_livre" resp="editors.xml#AG">A livre is an old
@@ -3928,7 +3929,7 @@
             <note type="gloss" xml:id="sous" target="_sous" resp="editors.xml#PEJ">A sou is a form
                of small currency, 1/20th of a livre or 5 centimes (OED).</note>
             <note type="gloss" xml:id="tonsure" target="_tonsure" resp="editors.xml#AG"><graphic
-                  url="notes/tonsure.jpg"/>A tonsure is a bald spot that some monks would have due
+               url="notes/tonsure.jpg" alt="Porcelain figurine of a monk, hair in a tonsure. Made in England, by Bow Porcelain Factory, c.1755" source="https://collections.vam.ac.uk/item/O337137/figure-bow-porcelain-factory/" desc="Porcelain figure of a seated monk, tonsured (Bow Porcelain Factory, c.1755), Victoria and Albert Museum"/>A tonsure is a bald spot that some monks would have due
                to shaving the tops of their heads. The image here shows a porcelain figurine of a
                seated monk, with tonsure, from 1755, housed in the <ref
                   target="https://collections.vam.ac.uk/item/O337137/figure-bow-porcelain-factory/"
@@ -3945,8 +3946,7 @@
                members of a Catholic religious organization characterized by a vow of poverty
                (Wikipedia). </note>
             <note type="gloss" xml:id="smote" target="_smote" resp="editors.xml#AG">Smote is the past tense of smite, which means to strike firmly. The word smite is often used in a religious context, but not here (OED).</note>
-            <note type="gloss" xml:id="desobligeant" target="_desobligeant" resp="editors.xml#ZK"><graphic
-               url="notes/travelingChariot.jpg"/>The OED cites this passage in <hi rend="italic">A Sentimental Journey</hi> as the first use of the word, which Sterne goes on to describe. This is a small carriage or chaise, an 18th century form of travel, for hire or owned by the wealthy of the time period.</note>
+            <note type="gloss" xml:id="desobligeant" target="_desobligeant" resp="editors.xml#ZK">The OED cites this passage in <hi rend="italic">A Sentimental Journey</hi> as the first use of the word, which Sterne goes on to describe. This is a small carriage or chaise, an 18th century form of travel, for hire or owned by the wealthy of the time period. It seats only one.</note>
             <note type="gloss" xml:id="expatriated" target="_expatriated" resp="editors.xml#AG">Someone who is
                expatriated is someone who is outside of their native country (Merriam-Webster). Here
                Yorick is saying that mercy is against those people.</note>
@@ -3972,16 +3972,14 @@
                (OED). It was also used by non-Dutch people to refer to all people of Dutch descent, sometimes in a
                derogatory way. </note>
             <note type="gloss" xml:id="Sancho" target="_Sancho" resp="editors.xml#ZK"><graphic
-                  url="notes/quixotePanza.jpg"/>An allusion to Sancho Panza, the donkey-riding
+               url="notes/quixotePanza.jpg" alt="Painting of Don Quixote, seated and gesturing with his hands, Sancho Panza perched on a stool, listening" source="https://collections.vam.ac.uk/item/O123321/don-quixote-and-sancho-panza-oil-painting-gilbert-john-sir" desc="Sir John Gilbert, 'Don Quixote and Sancho Panza' (1840), Victoria and Albert Museum"/>An allusion to Sancho Panza, the donkey-riding
                squire to the absurd self-proclaimed knight, Don Quixote. The image here shows a <ref
                   target="https://collections.vam.ac.uk/item/O123321/don-quixote-and-sancho-panza-oil-painting-gilbert-john-sir"
                   >painting of Don Quixote and Sancho Panza from 1840 by John Gilbert</ref>, via the
                Victoria and Albert Museum.</note>
             <note type="gloss" xml:id="chaise" target="_chaise" resp="editors.xml#MUStudStaff">A carriage
                or chaise was an 18th-century form of travel for hire or owned by the wealthy of the
-               time period. This "Travelling Chariot" (1790-1791) from the Victoria and Albert
-               Museum was made by John Hatchett of London, England for James, 3rd Duke of Montrose
-               (1755-1836). Typically a carriage for one or two people, a chaise has two wheels and
+               time period. Typically a carriage for one or two people, a chaise has two wheels and
                usually accommodates one horse (Dictionary.com). As Sterne continues his story,
                though, it would seem that his post-chaise was probably four-wheeled and accommodated
                more than one horse.</note>
@@ -3997,21 +3995,21 @@
             <note type="gloss" xml:id="Hyde" target="_Hyde" resp="editors.xml#MUStudStaff">Hyde Park is a large park in London. In the eighteenth century, it was a common place for duels to take place (<ref target="https://en.wikipedia.org/wiki/Hyde_Park,_London">Wikipedia</ref>).</note>
             <note type="gloss" xml:id="duel" target="_duel" resp="editors.xml#HT">A duel is a battle
                between two people, usually with swords and later, pistols, that has been settled upon as a way of
-               resolving a conflict (OED). It was falling out of favor in the eighteenth
+               resolving a conflict (OED). The practice was falling out of favor in the eighteenth
                century.</note>
             <note type="gloss" xml:id="Turk" target="_Turk" resp="editors.xml#ZK"><graphic
-                  url="notes/europeMap.jpeg"/>A Turk is a person from the country of Turkey. In this
+               url="notes/europeMap.jpeg" source="https://digitalcollections.nypl.org/items/510d47e1-cba7-a3d9-e040-e00a18064a99" alt="1814 map of Europe showing Turkey" desc="Map of Europe [showing Turkey], from 'Carey's general atlas, improved and enlarged' (1814), New York Public Library."/>A Turk is a person from the country of Turkey. In this
                context, Turk--and Jew--is used negatively as "an other." The map shown here, from
                1814, includes Turkey (<ref
                   target="https://digitalcollections.nypl.org/items/510d47e1-cba7-a3d9-e040-e00a18064a99"
                   >NYPL</ref>). </note>
             <note type="gloss" xml:id="gloves" target="_gloves" resp="editors.xml#ZA"><graphic
-                  url="notes/gloves.jpg"/>Gloves were routinely worn by both men and women during
+               url="notes/gloves.jpg" source="https://collections.vam.ac.uk/item/O135229/pair-of-mittens-unknown/" alt="A pair of yellow taffeta women's gloves, fingerless" desc="Yellow taffeta women's mittens (Great Britain, 1780-1800), Victoria and Albert Museum"/>Gloves were routinely worn by both men and women during
                the eighteenth century. This is an image of women's gloves--or mittens--from the late
                18th century, via the <ref
                   target="https://collections.vam.ac.uk/item/O135229/pair-of-mittens-unknown/"
                   >Victoria and Albert Museum</ref>. In Sterne's text, Yorick notes that the thumb
-               and two forefingers were open.</note>
+               and two forefingers were open, allowing delicate work with the hands.</note>
             <note type="gloss" xml:id="remise" target="_remise" resp="editors.xml#AG">A remise is an old
                term for a place to store horses or carriages (OED).</note>
             <note type="gloss" xml:id="colloquy" target="_colloquy" resp="editors.xml#BC">A colloquy is a
@@ -4019,7 +4017,7 @@
                or in a big conference. In the text, Yorick describes "a colloquy of five mi|nutes",
                meaning a short formal conversation. </note>
             <note type="gloss" xml:id="Tiber" target="_Tiber" resp="editors.xml#ZK"><graphic
-                  url="notes/tiber.jpg"/>The Tiber River is the third largest river in Italy that
+               url="notes/tiber.jpg" alt="Watercolor landscape view, with seated man, of the Tiber river" source="https://collections.vam.ac.uk/item/O1296281/on-the-river-tiber-near-watercolour-collingham-moore-john/" desc="John Collingham Moore, watercolor, 'On the River Tiber, near Acquacetosa' (c.1850-1880), Victoria and Albert Museum"/>The Tiber River is the third largest river in Italy that
                goes through the capital city of Rome. This image shows a late 19th century painting
                of the Tiber River by John Collingham Moore, housed in the Victoria and Albert
                Museum. </note>
@@ -4027,12 +4025,11 @@
                modern derogatory and highly sexualized definition, the word had a 17th-19th century meaning that ranged
                from neutral to positive connotation when describing a woman informally (OED, 3).</note>
             <note type="gloss" xml:id="Esdras" target="_Esdras" resp="editors.xml#MUStudStaff">Esdras is a version of "Ezra," here referring to the biblical scribe. Yorick is referring to the time of Esdras, meaning 440-480 BCE (Wikipedia).esdras</note>
-            <note type="gloss" xml:id="Fortune" target="_Fortune" resp="editors.xml#TH"><graphic url="notes/fortuna.jpeg"/>Fortune was the Roman goddess of chance or luck; she is often depicted with a wheel, as in this 1541 engraving by Hans Sebald Beham (<ref target="https://www.britannica.com/topic/Fortuna-Roman-goddess">Britannica</ref>).
-               personified</note>
+            <note type="gloss" xml:id="Fortune" target="_Fortune" resp="editors.xml#TH"><graphic url="notes/fortuna.jpeg" alt="engraving showing the goddess Fortuna, carrying vegetation in one hand and a wheel in the other" source="https://www.britannica.com/topic/Fortuna-Roman-goddess" desc="Hans Sebald Beham, Fortuna (1541), Encyclopedia Britannica"/>Fortune was the Roman goddess of chance, luck, and propsperity; she is often depicted with agriculture or a wheel, as in this 1541 engraving by Hans Sebald Beham (<ref target="https://www.britannica.com/topic/Fortuna-Roman-goddess">Britannica</ref>).</note>
             <note type="gloss" xml:id="snuff" target="_snuff" resp="editors.xml#TH"><graphic
-                  url="notes/snuffbox.jpg"/>A snuff-box is a small, decorative box fashionable in
+               url="notes/snuffbox.jpg" source="https://collections.vam.ac.uk/item/O157826/snuffbox-philipp-ernst-schindler/" alt="Gold and enamel snuffbox, Vienna, ca.1760, made by Philipp Ernst Schindler" desc="Gold and enamel snuffbox, Vienna, made by Philipp Ernst Schindler (ca.1760), Victoria and Albert Museum"/>A snuff-box is a small, decorative box fashionable in
                the eighteenth-century as a device for holding powdered tobbacco, or snuff. The image
-               included here shows a snuff box wrought in tortiseshell and inlaid with gold, held by
+               included here shows an elaborate Viennese snuff box wrought in gold with ivory and enamel, held by
                the Victoria and Albert Museum. </note>
             <note type="gloss" xml:id="Amiens" target="_Amiens" resp="editors.xml#MUStudStaff"><placeName
                   type="tgn" key="7010588">Amiens</placeName> is a city situated north of the
@@ -4070,8 +4067,8 @@
                   >Travels Through France and Italy</hi> in 1766. "<persName type="lcnaf" key="n79149073">Smelfungus</persName>" has now come to mean
                a traveller who finds fault in every aspect of his or her travels (Merriam-Webster). </note>
             <note type="gloss" xml:id="Mundungus" target="_Mundungus" resp="editors.xml#MUStudStaff"
-               ><graphic url="notes/medallions.jpeg"/>"Mundungus" is the name Sterne has given to Dr. Samuel Sharp, a "hard-nosed,
-               unimaginative English" travel writer, like Smollett, who was satirized as <persName type="lcnaf" key="n79149073">Smelfungus</persName>. The image included here shows an engraving of the satirized travel writers included in an 1857 illustrated edition of <hi rend="italic">A Sentimental Journey</hi> by Tony Johannot
+               ><graphic url="notes/medallions.jpeg" source="https://victorianweb.org/art/illustration/johannot/16.html" alt="Illustration by Tony Johannot for the 1857 edition of 'Sentimental Journey' showing the two travelers in profile engraved on coins" desc="Engraving of Smelfungus and Mundungus, by Tony Johannot (1857), The Victorian Web"/>"Mundungus" is the name Sterne has given to Dr. Samuel Sharp, a "hard-nosed,
+               unimaginative English" travel writer, like Smollett, who was satirized as <persName type="lcnaf" key="n79149073">Smelfungus</persName>. The image included here shows an engraving of the satirized travel writers--Smelfungus and Mundungus--included in an 1857 illustrated edition of <hi rend="italic">A Sentimental Journey</hi> by Tony Johannot
                   (<ref target="https://victorianweb.org/art/illustration/johannot/16.html"
                   >Victorian Web</ref>).</note>
             <note type="gloss" xml:id="grand_tour" target="_grand_tour" resp="editors.xml#FIO">The grand tour is
@@ -4080,7 +4077,7 @@
                   target="https://www.britannica.com/topic/Grand-Tour">Britannica</ref>). </note>
             <note type="gloss" xml:id="Montriul" target="_Montriul" resp="editors.xml#BC">Montriul is a town about 7km from <placeName type="tgn" key="7008038">Paris</placeName>.</note>
             <note type="gloss" xml:id="spatterdash" target="_spatterdash" resp="editors.xml#MAH"><graphic
-                  url="notes/spats.jpg"/>Spatterdashes, also known as spats, are extended gaiters or
+               url="notes/spats.jpg" source="https://collections.vam.ac.uk/item/O1248775/pair-of-spats/" alt="a pair of short purple silk and cotton spats with leather straps" desc="Pair of spats (England, 1860-1869), Victoria and Albert Museum"/>Spatterdashes, also known as spats, are extended gaiters or
                leggings, worn over boots or pants to keep them clean, especially when riding (OED). The image included here shows a pair of 19th-century lilac-colored
                spatterdashes made from silk and leather. These particular spatterdashes are held by
                the <ref target="https://collections.vam.ac.uk/item/O1248775/pair-of-spats/">Victoria
@@ -4088,7 +4085,7 @@
             <note type="gloss" xml:id="pasquinade" target="_pasquinade" resp="editors.xml#MAH">Used in this
                context a noun, "pasquinade" is of Italian adoption and refers to a public satirical
                writing meant to ridicule someone (OED).</note>
-            <note type="gloss" xml:id="Perseus" target="Perseus" resp="editors.xml#HT"><graphic url="notes/perseus.jpeg"/>In Greek mythology, Perseus is the son of Poseidon, God of the sea. Perseus was known for killing and beheading Medusa, as in this 19th century bronze sculpture, <ref target="https://collections.vam.ac.uk/item/O41512/copy-of-the-sn-mark/">via the Victoria and Albert Museum</ref>.</note>
+            <note type="gloss" xml:id="Perseus" target="Perseus" resp="editors.xml#HT"><graphic url="notes/perseus.jpeg" source="https://collections.vam.ac.uk/item/O41512/copy-of-the-sn-mark" alt="large bronze fountain with a sculpture of Perseus holding the head of Medusa" desc="Herbert Gerhard, Perseus Fountain (c.1867, 1590), Victoria and Albert Museum"/>In Greek mythology, Perseus is the son of Poseidon, God of the sea. Perseus was known for killing and beheading Medusa, as in this 19th century bronze sculpture, <ref target="https://collections.vam.ac.uk/item/O41512/copy-of-the-sn-mark/">via the Victoria and Albert Museum</ref>.</note>
             <note type="gloss" xml:id="Abdera" target="_Abdera" resp="editors.xml#VDS">Abdera is a place in Thrace, associated with the 8th labor of Hercules. Thrace is an ancient term for Eastern and Southeastern Europe (Getty TGN).</note>
             <note type="gloss" xml:id="place" target="_place" resp="editors.xml#MAH">The French phrase,
                "place aux dames," is translated as "make room for the ladies"
@@ -4102,7 +4099,7 @@
                guide them, especially when there is no one driving the carriage (OED). </note>
             <note type="gloss" xml:id="deuce" target="_deuce" resp="editors.xml#TH">"The deuce!" is an expression of incredulity, invoking the devil or the spirit of mischief (OED).</note>
             <note type="editorial" xml:id="handkerchief" target="_handkerchief" resp="editors.xml#AB"><graphic
-                  url="notes/handkerchief.jpg"/>This passage demonstrates the use of the
+               url="notes/handkerchief.jpg" source="https://collections.vam.ac.uk/item/O360365/handkerchief-unknown/" alt="a photograph of a finely woven and embroidered lace handkerchief from the 18th century" desc="Lace handkerchief, 18th century, Victoria and Albert Museum"/>This passage demonstrates the use of the
                handkerchief as a symbol of a bond or relationship between the two characters.
                Typically, handkerchiefs were used as a fashion accessory and given as gifts. This
                handkerchief is embroidered with the letter "S," and it was originally given to Maria
@@ -4120,7 +4117,7 @@
             <note type="gloss" xml:id="billet" target="_billet" resp="editors.xml#BC">A billet, from the
                French, is a short, informal letter (OED).</note>
             <note type="gloss" xml:id="tis" target="_tis" resp="editors.xml#MA">"'Tis" is a contraction of "it is" (OED).</note>
-            <note type="gloss" xml:id="writing" target="_writing" resp="editors.xml#TH"><graphic url="notes/inkstand.jpeg"/>The eighteenth-century was a letter writing period, and writing tools were sometimes elaborate, though here, Yorick is in a rush. Yorick's pen was likely a quill pen, or a feather from a turkey or a goose cut in a specific way with a pen-knife to absorb and release ink; ink was either in powder or liquid form, made with a variety of ingredients, and sometimes stored together in the inkwell with pounce, or a sandy substance made to blot the ink, as in this inkwell from the 1770s, via the Victoria and Albert Museum. 
+            <note type="gloss" xml:id="writing" target="_writing" resp="editors.xml#TH"><graphic url="notes/inkstand.jpeg" source="https://collections.vam.ac.uk/item/O74001/inkstand-unknown/" desc="Pewter Inkstand (c.1770), Victoria and Albert Museum" alt="Square-shaped pewter inkstand with a pounce pot in one side of the container and an inkwell in the other. A diagonal bar with two holes for quills."/>The eighteenth-century was a letter writing period, and writing tools were sometimes elaborate, though here, Yorick is in a rush. Yorick's pen was likely a quill pen, or a feather from a turkey or a goose cut in a specific way with a pen-knife to absorb and release ink; ink was either in powder or liquid form, made with a variety of ingredients, and sometimes stored together in the inkwell with pounce, or a sandy substance made to blot the ink, as in this inkwell from the 1770s, via the Victoria and Albert Museum. 
                Paper was typically made from fabric--linen or cotton--and sometimes treated to prevent over-absorption of ink</note>
             <note type="gloss" xml:id="sand" target="_sand" resp="editors.xml#TH">These items common to letter-writing in the period, sand and seal
                wax, were used to prepare the letter for sending. The "sand" Yorick calls for is pounce, which is, according to the OED, "[a] fine powder, made from pulverized sandarac or cuttle shell, used to prevent ink from spreading (esp. when writing on unsized paper) or to prepare the surface of parchment to receive writing" (pounce, n3.1). Wax was heated with a candle and dripped onto a folded letter, then impressed with a signet or mark to indicate the author. Read more about seal wax <ref target="https://en.wikipedia.org/wiki/Sealing_wax">online</ref>.</note>
@@ -4145,7 +4142,7 @@
                assistant. It is also an low-quality fabric in gray, which was the common material
                used by such workers for their clothing (OED).</note>
             <note type="gloss" xml:id="periwig" target="_periwig" resp="editors.xml#MAH"><graphic
-                  url="notes/wigFashion.jpg"/>A wig or "periwig" is a styled wig worn formerly as a
+               url="notes/wigFashion.jpg" source="https://collections.vam.ac.uk/item/O1109347/fashion-plate-unknown/" alt="Colour print showing men's costume. The print shows a man wearing a yellow coat with stripes, red waistcoat, powdered wig, pale blue breeches and stockings with blue and red stripes. The man is shown full-length, turned slightly to the left and facing to the right. In his right hand he holds a tricorne hat and in the other an extremely large muff." desc="Color fashion plate, satirical, showing men's fashion, including a powedered wig and an enormous muff (1780s), Victoria and Albert Museum/>A wig or "periwig" is a styled wig worn formerly as a
                fashionable headdress by both women and men. Today, judges in the UK retain the wig
                as part of their professional clothing (OED). The
                image included here shows a fashionable young man wearing a wig. This image is from
@@ -4162,7 +4159,8 @@
                more about eighteenth-century opera, see <ref
                   target="https://www.vam.ac.uk/articles/opera-an-introduction">the Victoria and
                   Albert Museum's introduction to opera</ref>.</note>
-            <note type="gloss" xml:id="ruffles" target="_ruffles" resp="editors.xml#HT"><graphic url="notes/ruffles.jpeg"/>A pair of ruffles is a piece of clothing--ruffled fabric that protrudes from a man's coat sleeve. The image here shows an eighteenth-century ruffle, via the <ref target="https://collections.vam.ac.uk/item/O315926/pair-of-sleeve-unknown/">Victoria and Albert Museum</ref>.</note>
+            <note type="gloss" xml:id="ruffles" target="_ruffles" resp="editors.xml#HT"><graphic
+               url="notes/ruffle.jpeg" alt="A photograph of white linen ruffles protruding from the sleeve of a brown men's coat, made in England c.1750" source="https://collections.vam.ac.uk/item/O315926/pair-of-sleeve-unknown" desc="Pair of linen sleeve ruffles (England, c.1750), Victoria and Albert Museum"/>A pair of ruffles is a piece of clothing--ruffled fabric that protrudes from a man's coat sleeve. The image here shows an eighteenth-century ruffle, via the <ref target="https://collections.vam.ac.uk/item/O315926/pair-of-sleeve-unknown/">Victoria and Albert Museum</ref>.</note>
             <note type="gloss" xml:id="louis" target="_louis" resp="editors.xml#FJZ">A louis d'or is a
                gold coin issued in the reign of Louis XIII (Wikipedia). </note>
 
@@ -4176,7 +4174,7 @@
             <note type="gloss" xml:id="salique" target="_salique" resp="editors.xml#PEJ">A French law "by
                which females were excluded from succession to the crown" (OED). </note>
             <note type="gloss" xml:id="shagreen" target="_shagreen" resp="editors.xml#FIO"><graphic
-                  url="notes/shagreenCase.jpg"/>A shagreen case is a case of any kind made out of
+               url="notes/shagreenCase.jpg" source="https://collections.vam.ac.uk/item/O22383/angyeongjip-spectacle-case-angyeongjip-unknown" alt="sharkskin shagreen glasses case, early 20th century" desc="Spectacle case, wood and lacquered shagreen (Korea, c.1900-1930), Victoria and Albert Museum"/>A shagreen case is a case of any kind made out of
                ray or shark skin. It was commonly used in the 17th and 18th century. The image
                included here shows a sharkskin shagreen case for glasses, from the early 20th
                century, via the <ref
@@ -4210,7 +4208,8 @@
          </div>
          <div type="notes2">
             <note type="gloss" xml:id="fille" target="_fille" resp="editors.xml#MUStudStaff"><graphic
-               url="notes/1967.4_toilette.jpg"/>A fille de chambre a young chambermaid or a woman's
+               url="notes/1967.4_toilette.jpg" source="https://www.museothyssen.org/en/collection/artists/boucher-francois/toilette" alt="Painting by Boucher showing a young lady tying her garter and choosing a cap--she is completing her toilette, getting ready for the day" desc="François Boucher, 
+               'La Toilette' (1742), Museo Nacional Thyssen-Bornemisza, Madrid"/>A fille de chambre a young chambermaid or a woman's
                personal maid. They usually would help make the beds or take care of the lady in her
                chambers. The image here shows a French lady and her fille de chambre, with her back
                turned, showing two caps for her lady to choose from; read more about this painting
@@ -4242,7 +4241,7 @@
                context as a noun, "consanguinity" is of French origin and means the fact of sharing
                an ancestor (OED). </note>
             <note type="gloss" xml:id="passport" target="_passport" resp="editors.xml#TH"><graphic
-                  url="notes/passport1640.jpg"/>A passport in Sterne's time was usually a piece of
+               url="notes/passport1640.jpg" source="https://www.passport-collector.com/bishop-of-london-william-juxon-passport-1640/" desc="Passport made out to Captain Thomas Edwards by William Juxon to travel abroad (1640), Passport Collector" alt="handwritten passport with text and signatures"/>A passport in Sterne's time was usually a piece of
                paper issued by an authority--sometimes simply a letter by a well-known
                individual--granting safe conduct. Read more about the history of the passport at <hi
                   rend="italic"><ref
@@ -4404,7 +4403,7 @@
                ><graphic url="notes/balustrade.jpeg"/>A ballustrade is a row of short, often decorative pillars, in a railing (OED). The image included here shows an English example of an eighteenth-century iron balustrade, via the Victoria and Albert Museum. </note>
             <note type="gloss" xml:id="Gascon" target="_Gascon" resp="editors.xml#TH">A Gascon is a person from Gascony; however, it had come also to mean someone who brags or boasts, traits stereotypically associated with Gascons (OED).</note>
             <note type="gloss" xml:id="harquebuss" target="_harquebuss" resp="editors.xml#MAH"><graphic
-                  url="notes/harquebuss.jpg"/>Used in this context as a noun, a harquebuss is a
+               url="notes/harquebuss.jpg" alt="A 19th-century sepia photograph showing four harquebuss guns in a vertical orientation" source="https://collections.vam.ac.uk/item/O1074897/photograph-franck/" desc="French harquebuss guns (1868), Victoria and Albert Museum"/>Used in this context as a noun, a harquebuss is a
                "matchlock gun invented in the 15th century which was portable but heavy and was
                usually fired from a support” (OED). Pictured here is a 19th-century photograph of
                harquebusses, from the <ref
@@ -4413,7 +4412,7 @@
             <note type="gloss" xml:id="lanthorn" target="_lanthorn" resp="editors.xml#PEJ"><graphic url="notes/lanthorn.jpeg"/>A lanthorn is an older way of referring to a lantern, or something that gives light. The image here, <ref target="https://www.metmuseum.org/art/collection/search/360134">from the Metropolitan Museum of Art</ref>, shows a young woman reading ballads by the light of a paper lantern.</note>
             <note type="gloss" xml:id="notary" target="_notary" resp="editors.xml#MAH">A notary is a
                lawyer or a legal authority who overlooks the signing of documents (OED).</note>
-            <note type="gloss" xml:id="inkhorn" target="_inkhorn" resp="editors.xml#VDS"><graphic url="notes/inkhorn.jpeg"/>An ink-horn was a container for ink. This photograph from the Victoria and Albert Museum shows a variety of eighteenth-century glass ink horns. Unlike ink stands, ink horns (the earliest were made of animal horn) were meant to be portable (OED).</note>
+            <note type="gloss" xml:id="inkhorn" target="_inkhorn" resp="editors.xml#VDS"><graphic url="notes/inkhorn.jpeg" alt="A photograph of several different 18th-century English glass inkhorns with labels" source="https://collections.vam.ac.uk/item/O3227/ink-horn/" desc="Glass ink-horns (English, 18th century), Victoria and Albert Museum"/>An ink-horn was a container for ink. This photograph from the Victoria and Albert Museum shows a variety of eighteenth-century glass ink horns. Unlike ink stands, ink horns (the earliest were made of animal horn) were meant to be portable (OED).</note>
             <note type="gloss" xml:id="wills" target="_wills" resp="editors.xml#TH">For more information on wills int the eighteenth century, read this engaging post from <ref target="https://georgianera.wordpress.com/2020/05/27/the-contents-of-wills/"><hi rend="italic">Georgiana</hi></ref>.</note>
             <note type="authorial" xml:id="nauth5" target="auth5">Nosegay. [Sterne's note. A nosegay is a
                sweet-smelling bunch of flowers or herbs (OED).]</note>
