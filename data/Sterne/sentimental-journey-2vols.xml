@@ -118,7 +118,7 @@
             <constitution type="single"/>
             <derivation type="original"/>
             <domain/>
-            <factuality/>
+            <factuality type="fiction"/>
             <interaction/>
             <preparedness type="prepared"/>
             <purpose type="entertain" degree="high"/>
@@ -195,9 +195,10 @@
 
       <revisionDesc>
          <!--BEGINS Revision Description -->
-         <change when="2007-10">2007 October</change>
+         <change when="2007-10" who="editors.xml#TH">2007 October</change>
          <change when="2021-03-01" who="editors.xml#TH">TEI header and text updated for LIC</change>
          <change when="2019-02-22" who="editors.xml#TH"/>
+         <change when="2025-11-21" who="editors.xml#TH"/>
       </revisionDesc>
 
 
@@ -207,7 +208,7 @@
 
 
 
-   <text xml:lang="eng">
+   <text>
       <front>
          <pb n="[Title Page]" facs="pageImages/sjv1-0TP.png"/>
          <titlePage>
@@ -320,8 +321,8 @@
                they may depend upon the same causes, for ought I know, which influence the tides
                themselves—'twould oft be no discredit <pb n="9"/> to us, to
                suppose it was so: I'm sure at least for myself, that in many a case I should be more
-               highly satisfied, to have it said by the world, <q rend="inline">"I had had an affair
-                  with the moon, in which there was neither sin nor shame,"</q> than have it pass
+               highly satisfied, to have it said by the world, "I had had an affair
+                  with the moon, in which there was neither sin nor shame," than have it pass
                altogether as my own act and deed, wherein there was so much of both.</p>
             <p>—But be this as it may. The moment I cast my eyes upon him, I was predetermined not
                to give him a single <ref target="_sous" corresp="sous">sous</ref>; and accordingly I
@@ -492,9 +493,9 @@
             <p>Then follow the Travellers of Necessity. <list>
                <item>The delinquent and <ref target="_felonious" corresp="felonious">felonious</ref> Traveller,</item>
                   <item>The unfortunate and innocent Traveller,</item>
-                  <item>The simple Traveller,</item>
+                  <item>The simple Traveller,</item></list>
                <pb n="28"/> And last of all (if you please) 
-                  <item><ref target="_travellers" corresp="travellers">The Sentimental Traveller</ref></item>
+                  <list><item><ref target="_travellers" corresp="travellers">The Sentimental Traveller</ref></item>
                </list> (meaning thereby myself) who have travell'd, and of which I am now sitting
                down to give an account—as much out of <hi rend="italic">Necessity,</hi> and the <hi rend="italic">besoin de</hi>
                Voyager, as any one in the class.</p>
