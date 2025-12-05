@@ -20,8 +20,8 @@
                     
                     <persName type="orcid" key="xxx">
                         <name ref="xxx">
-                            <forename></forename>
-                            <surname></surname>
+                            <forename>Rachel</forename>
+                            <surname>Retica</surname>
                             
                         </name>
                     </persName>
@@ -593,7 +593,7 @@ that belongs to Cupid, who has been described in the previous lines as the "crue
     <note xml:id="Phoebus" target="Phoebus_">Phoebus Apollo is the god of the sun, so his "lampe" would be the sun itself. [RR]</note>lampe throughout the world doth shine,</l>
 <l>Shed thy faire beames into my feeble <ref target="eyne_" corresp="eyne">eyne</ref>
     <note xml:id="eyne" target="eyne_">eyes [RR]</note>,</l>
-<l>And raise my thoughts too humble and too vile,</l>
+<l>And raise my thoughts too humble and too vile, </l>
 <l>To thinke of that <ref target="type_" corresp="type">true glorious type of thine</ref>
     <note xml:id="type" target="type_">The poet cannot think on her directly; he must think of her "true glorious type." "Type" is that by which she is figured, symbolized, and signified in the poem. Among several other "shadows," one of Elizabeth's main types is Gloriana, "greatest Glorious Queene of Faery lond" (I.i.3). In the Letter to Raleigh, Spenser writes: "In that Faery Queene I mean glory in my generall intention, but in my particular I conceive the most excellent and glorious person of our soveraine the Queene, and her kingdome in Faery land" (LR lines 32-4).
         
@@ -653,7 +653,7 @@ that belongs to Cupid, who has been described in the previous lines as the "crue
 <l>To winne him worship, and her grace to haue,</l>
 <l>Which of all earthly things he most did craue;</l>
 <l>And euer as he rode, his hart did earne</l>
-<l>To proue his puissance in battell braue</l>
+<l>To proue his <ref target="puissance_" corresp="puissance">puissance</ref><note xml:id="puissance" target="puissance">Power, might (from French.) [RR]></note> in battell braue</l>
 <l>Vpon his foe, and his new force to learne;</l>
 <l>Vpon his foe, a Dragon horrible and stearne.</l>
 </lg>
@@ -662,10 +662,13 @@ that belongs to Cupid, who has been described in the previous lines as the "crue
 <l n="iv">A louely Ladie rode him faire beside,</l>
 <l>Vpon a lowly Asse more white then snow,</l>
 <l>Yet she much whiter, but the same did hide</l>
-<l>Vnder a vele, that wimpled was full low,</l>
+<l>Vnder a vele, that <ref target="wimpled_" corresp="wimpled">wimpled</ref>
+    <note xml:id="wimpled" target="wimpled_">Falling in folds. (Oxford English Dictionary)</note>was full low,</l>
 <l>And ouer all a blacke stole she did throw,</l>
 <l>As one that inly mournd: so was she sad,</l>
-<l>And heauie sat vpon her palfrey slow:</l>
+<l>And heauie sat vpon her <ref target="palfrey_" corresp="palfrey">palfrey</ref>
+    <note xml:id="palfrey" target="palfrey_">A horse for ordinary riding, often used to refer to a 
+    small saddle horse for women. (Oxford English Dictionary)</note>slow:</l>
 <l>Seemed in heart some hidden care she had,</l>
 <l>And by her in a line a milke white lambe she lad.</l>
 </lg>
@@ -677,19 +680,25 @@ that belongs to Cupid, who has been described in the previous lines as the "crue
 <l>Their scepters stretcht from East to Westerne shore,</l>
 <l>And all the world in their subiection held;</l>
 <l>Till that infernall feend with foule vprore</l>
-<l>Forwasted all their land, and them expeld:</l>
+<l><ref target="Forwasted_" corresp="Forwasted">Forwasted</ref>
+    <note xml:id="Forwasted" target="Forwasted_">Laid waste to; destroyed.</note>all their land, and them expeld:</l>
 <l>Whom to auenge, she had this Knight from far compeld.</l>
 </lg>
 <lg>
 <l n="vi">Behind her farre away a Dwarfe did lag,</l>
 <l>That lasie seemd in being euer last,</l>
 <l>Or wearied with bearing of her bag</l>
-<l>Of needments at his backe. Thus as they past,</l>
+<l>Of <ref target="needments_" corresp="needments">needments</ref> 
+    <note xml:id="needments" target="needments_">The things that Una needs; Spense coined this word. [RR]</note>at his backe. Thus as they past,</l>
 <l>The day with cloudes was suddeine ouercast,</l>
 <l>And angry <hi rend="italic">Ioue</hi> an hideous storme of raine</l>
-<l>Did poure into his Lemans lap so fast,</l>
-<l>That euery wight to shrowd it did constrain,</l>
-<l>And this faire couple eke to shroud themselues were fain.</l>
+<l>Did poure into <ref target="Lemans_" corresp="Lemans">his Lemans lap</ref>
+    <note xml:id="Lemans" target="Lemans_">His beloved's lap. [RR]</note>so fast,</l>
+<l>That euery <ref target="wight_" corresp="wight">wight</ref>
+    <note xml:id="wight" target="wight_">From Old English, a human being (man or woman). [RR]</note>to shrowd it did <ref target="constrain_" corresp="constrain">constrain</ref>
+    <note xml:id="constrain" target="constrain_">To exert or strain oneself (now obsolete). (Oxford English Dictionary)</note>,</l>
+<l>And this faire couple eke to shroud themselues were <ref target="fain_" corresp="fain">fain</ref>
+    <note xml:id="fain" target="fain_">Obliged or glad. [RR}</note>.</l>
 </lg>
 <lg>
 <l n="vii">Enforst to seeke some couert nigh at hand,</l>
@@ -697,7 +706,9 @@ that belongs to Cupid, who has been described in the previous lines as the "crue
 <l>That promist ayde the tempest to withstand:</l>
 <l>Whose loftie trees yclad with sommers pride,</l>
 <l>Did spred so broad, that heauens light did hide,</l>
-<l>Not perceable with power of any starre:</l>
+<l>Not <ref target="perceable_" corresp="perceable">perceable</ref>
+    <note xml:id="perceable" target="perceable_">Piercable; that is, the tree
+    canopy is so thick that no light can pierce it. [RR]</note>with power of any starre:</l>
 <l>And all within were pathes and alleies wide,</l>
 <l>With footing worne, and leading inward farre:</l>
 <l>Faire harbour that them seemes; so in they entred arre.</l>
@@ -710,7 +721,8 @@ that belongs to Cupid, who has been described in the previous lines as the "crue
 <l>Seemd in their song to scorne the cruell sky.</l>
 <l>Much can they prayse the trees so straight and hy,</l>
 <l>The sayling Pine, the Cedar proud and tall,</l>
-<l>The vine-prop Elme, the Poplar neuer dry,</l>
+<l>The <ref target="Elme_" corresp="Elme">vine-prop Elme</ref>
+    <note xml:id="Elme" target="Elme_">The elm supports or props up the Vine. [RR]</note>, the Poplar neuer dry,</l>
 <l>The builder Oake, sole king of forrests all,</l>
 <l>The Aspine good for staues, the Cypresse funerall.</l>
 </lg>
@@ -718,17 +730,24 @@ that belongs to Cupid, who has been described in the previous lines as the "crue
 <l n="ix">The Laurell, meed of mightie Conquerours</l>
 <l>And Poets sage, the Firre that weepeth still,</l>
 <l>The Willow worne of forlorne Paramours,</l>
-<l>The Eugh obedient to the benders will,</l>
-<l>The Birch for shaftes, the Sallow for the mill,</l>
-<l>The Mirrhe sweete bleeding in the bitter wound,</l>
+<l>The <ref target="Eugh_" corresp="Eugh">Eugh</ref>
+    <note xml:id="Eugh" target="Eugh_">Variant spelling of the "ewe" tree. [RR]</note>obedient to the benders will,</l>
+<l>The Birch for shaftes, the <ref target="Sallow_" corresp="Sallow">Sallow</ref>
+    <note xml:id="Sallow" target="Sallow_">A plant of the genus Salix, a willow. (Oxford English Dictionary)</note>for the mill,</l>
+<l>The <ref target="Mirrhe_" corresp="Mirrhe">Mirrhe</ref>
+    <note xml:id="Mirrhe" target="Mirrhe_">A variant of myrrh, which is a gum resin exuded by various Arabian and African trees that was formerly important as a sweet-smelling ingredient of incense or as a bitter-tasting medicinal herb (Oxford English Dictionary).</note>sweete bleeding in the bitter wound,</l>
 <l>The warlike Beech, the Ash for nothing ill,</l>
-<l>The fruitfull Oliue, and the Platane round,</l>
-<l>The caruer Holme, the Maple seeldom inward sound.</l>
+<l>The fruitfull Oliue, and the <ref target="Platane_" corresp="Platane">Platane</ref> round,
+<note xml:id="Platane" target="Platane_">A plane tree. [RR]</note></l>
+<l>The caruer <ref target="Holme_" corresp="Holme">Holme</ref>
+    <note xml:id="Holme" target="Holme_">Either a holly or a holme-oak. (Hamilton) [RR]</note>, the Maple seeldom inward sound.</l>
 </lg>
 <lg>
 <l n="x">Led with delight, they thus beguile the way,</l>
 <l>Vntill the blustring storme is ouerblowne;</l>
-<l>When weening to returne, whence they did stray,</l>
+<l>When <ref target="weening_" corresp="weening">weening</ref>
+    <note xml:id="weening" target="weening_">To expect, hope, or intend (Oxford English Dictionary)</note>to returne, <ref target="stray_" corresp="stray">whence they did stray</ref>
+    <note xml:id="stray" target="stray_">From where they had strayed. [RR]</note>,</l>
 <l>They cannot finde that path, which first was showne,</l>
 <l>But wander too and fro in wayes vnknowne,</l>
 <l>Furthest from end then, when they neerest weene,</l>
@@ -737,30 +756,38 @@ that belongs to Cupid, who has been described in the previous lines as the "crue
 <l>That which of them to take, in diuerse doubt they been.</l>
 </lg>
 <lg>
-<l n="xi">At last resoluing forward still to fare,</l>
+<l n="xi">At last resoluing forward still <ref target="fare_" corresp="fare">to fare</ref>
+    <note xml:id="fare" target="fare_">To travel. [RR]</note>,</l>
 <l>Till that some end they finde or in or out,</l>
 <l>That path they take, that beaten seemd most bare,</l>
 <l>And like to lead the labyrinth about;</l>
 <l>Which when by tract they hunted had throughout,</l>
 <l>At length it brought them to a hollow caue,</l>
-<l>Amid the thickest woods. The Champion stout</l>
-<l>Eftsoones dismounted from his courser braue,</l>
+<l>Amid the thickest woods. The <ref target="Champion_" corresp="Champion">Champion</ref>
+    <note xml:id="Champion" target="Champion_">Redcrosse. [RR]</note>stout</l>
+<l><ref target="Eftsoons_" corresp="Eftsoones">Eftsoones</ref>
+    <note xml:id="Eftsoons" target="Eftsoons_">Soon after. [RR]</note>dismounted from his <ref target="courser_" corresp="courser">courser braue</ref>
+    <note xml:id="courser" target="courser_">A powerful horse; a charger. [RR]</note>,</l>
 <l>And to the Dwarfe a while his needlesse spere he gaue.</l>
 </lg>
     <pb n="8" facs="pageImages/0036.jpg"/>
 <lg>
-<l n="xii">Be well aware, quoth then that Ladie milde,</l>
+<l n="xii">Be well aware, <ref target="quoth_" corresp="quoth">quoth then</ref>
+    <note xml:id="quoth" target="quoth">Una speaks the next six lines. [RR]</note>that Ladie milde,</l>
 <l>Least suddaine mischiefe ye too rash prouoke:</l>
 <l>The danger hid, the place vnknowne and wilde,</l>
-<l>Breedes dreadfull doubts: Oft fire is without smoke,</l>
-<l>And perill without show: therefore your stroke</l>
+    <l>Breedes dreadfull doubts: <ref target="fire_" corresp="fire">Oft fire is without smoke,</ref><note xml:id="fire" target="fire_">Spenser weaves aphorism or proverb into his verse, sometimes as a mark of a character's wisdom, as is the case with Una here, and sometimes, if the folk wisdom is distorted in some way, to show a character's deceit (for example, in stanza 33, Archimago gives advice to Redcrosse that borders on tautology: "the way to win / Is wisely to aduise"). [RR]</note>
+</l>
+    <l>And perill without show: therefore your stroke</l>
 <l>Sir knight with-hold, till further triall made.</l>
-<l>Ah Ladie (said he) shame were to reuoke</l>
+<l><ref target="Ladie_" corresp="Ladie">Ah Ladie (said he)</ref>
+    <note xml:id="Ladie" target="Ladie_">Redcross begins speaking.</note>shame were to reuoke</l>
 <l>The forward footing for an hidden shade:</l>
 <l>Vertue giues her selfe light, through darkenesse for to wade.</l>
 </lg>
 <lg>
-<l n="xiii">Yea but (quoth she) the perill of this place</l>
+<l n="xiii">Yea but <ref target="quoth_she_" corresp="quoth_she">(quoth she)</ref>
+    <note xml:id="quoth_she" corresp="quoth_she_">Una speaks the next eight lines. [RR]</note>the perill of this place</l>
 <l>I better wot then you, though now too late</l>
 <l>To wish you backe returne with foule disgrace,</l>
 <l>Yet wisedome warnes, whilest foot is in the gate,</l>
@@ -768,14 +795,16 @@ that belongs to Cupid, who has been described in the previous lines as the "crue
 <l>This is the wandring wood, this <hi rend="italic">Errours den</hi>,</l>
 <l>A monster vile, whom God and man does hate:</l>
 <l>Therefore I read beware. Fly fly (quoth then</l>
-<l>The fearefull Dwarfe:) this is no place for liuing men.</l>
+<l>The fearefull<ref target="Dwarfe_" corresp="Dwarfe"> Dwarfe</ref>
+    <note xml:id="Dwarfe" target="Dwarfe_">The dwarf begins speaking. [RR]</note>:) this is no place for liuing men.</l>
 </lg>
 <lg>
 <l n="xiv">But full of fire and greedy hardiment,</l>
-<l>The youthfull knight could not for ought be staide,</l>
+<l>The youthfull knight could not for ought be <ref target="staide_" corresp="staide">staide</ref><note xml:id="staide" corresp="staide_">Kept from moving; halted. (Oxford English Dictionary)</note>,</l>
 <l>But forth vnto the darksome hole he went,</l>
 <l>And looked in: his glistring armor made</l>
-<l>A litle glooming light, much like a shade,</l>
+<l>A litle glooming light, much like a <ref target="shade_" corresp="shade">shade</ref>
+    <note xml:id="shade" target="shade_">His armor makes a light so dim it is like a shadow. [RR]</note>,</l>
 <l>By which he saw the vgly monster plaine,</l>
 <l>Halfe like a serpent horribly displaide,</l>
 <l>But th’other halfe did womans shape retaine,</l>
@@ -784,41 +813,54 @@ that belongs to Cupid, who has been described in the previous lines as the "crue
 <lg>
 <l n="xv">And as she lay vpon the durtie ground,</l>
 <l>Her huge long taile her den all ouerspred,</l>
-<l>Yet was in knots and many boughtes vpwound,</l>
-<l>Pointed with mortall sting. Of her there bred</l>
+<l>Yet was in knots and many <ref target="boughtes_" corresp="boughtes">boughtes</ref>
+    <note xml:id="boughtes" target="boughtes_">Folds or bends. (Oxford English Dictionary)</note>vpwound,</l>
+<l>Pointed with mortall sting. Of her there <ref target="bred_" corresp="bred">bred</ref>
+<note xml:id="bred" target="bred_">Errour is surrounded by her offspring. [RR]</note></l>
 <l>A thousand yong ones, which she dayly fed,</l>
-<l>Sucking vpon her poisonous dugs, eachone</l>
-<l>Of sundry shapes, yet all ill fauored:</l>
-<l>Soone as that vncouth light vpon them shone,</l>
+<l>Sucking vpon her poisonous <ref target="dugs_" corresp="dugs">dugs</ref>
+    <note xml:id="dugs" target="dugs_">Teats or nipples. (Oxford English Dictionary)</note>, eachone</l>
+<l>Of <ref target="sundry_" corresp="sundry">sundry</ref>
+    <note xml:id="sundry" target="sundry_">Various; distinct from one another. [RR]</note>shapes, yet all ill fauored:</l>
+<l>Soone as <ref target="uncouth_" corresp="uncouth">that vncouth light</ref>
+    <note xml:id="uncouth" target="uncouth_">that is, the light from Redcrosse's shield. [RR]</note>vpon them shone,</l>
 <l>Into her mouth they crept, and suddain all were gone.</l>
 </lg>
     <pb n="9" facs="pageImages/0037.jpg"/>
 <lg>
-<l n="xvi">Their dam vpstart, out of her den effraide,</l>
+<l n="xvi">Their <ref target="dam_" corresp="dam">dam</ref><note xml:id="dam" target="dam">Their mother, Errour, starts up. [RR]</note> vpstart, out of her den <ref target="effraide_" corresp="effraide">effraide</ref>
+    <note xml:id="effraide" target="effraide_">Alarmed (Hamilton). [RR]</note>,</l>
 <l>And rushed forth, hurling her hideous taile</l>
 <l>About her cursed head, whose folds displaid</l>
-<l>Were stretcht now forth at length without entraile.</l>
-<l>She lookt about, and seeing one in mayle</l>
+<l>Were stretcht now forth at length <ref target="entraile_" corresp="entraile">without entraile</ref>
+    <note xml:id="entraile" target="entraile_">Without coils--now, her tail is stretched out to its full length. [RR]</note>.</l>
+<l>She lookt about, and seeing one <ref target="mayle" corresp="mayle">in mayle</ref>
+<note xml:id="mayle" target="mayle_">She sees Redcross in his "mayle" (a variant of the
+word "mail"), or armor, and tries to retreat back to her den. [RR]</note></l>
 <l>Armed to point, sought backe to turne againe;</l>
-<l>For light she hated as the deadly bale,</l>
-<l>Ay wont in desert darknesse to remaine,</l>
+<l>For light she hated as the deadly <ref target="bale_" corresp="bale">bale</ref>
+    <note xml:id="bale" target="bale_">Injury or torment. (Oxford English Dictionary)</note>,</l>
+<l><ref target="wont_" corresp="wont">Ay wont</ref><note xml:id="wont" target="wont_">She is "ever accustomed" to remain in darkness (Hamilton). [RR]</note> in desert darknesse to remaine,</l>
 <l>Where plaine none might her see, nor she see any plaine.</l>
 </lg>
 <lg>
-<l n="xvii">Which when the valiant Elfe perceiu’d, he lept</l>
+<l n="xvii">Which when the <ref target="valiant_" corresp="valiant">valiant Elfe</ref>
+    <note xml:id="valiant" target="valiant_">"Valiant elfe" refers to Redcrosse. The poem distinguishes between knights in Faery land (the elves or fairies) and Briton knights (such as Arthur, who arrives in canto vii of Book I). In canto x, the character Contemplation reveals that Redcrosse is actually descended from "Saxon kings" (x 64) — he is a changeling raised in Faery land, not an Elfe. [RR]</note>perceiu’d, he lept</l>
 <l>As Lyon fierce vpon the flying pray,</l>
-<l>And with his trenchand blade her boldly kept</l>
+<l>And with his <ref target="trenchand_" corresp="trenchand">trenchand</ref><note xml:id="trenchand" target="trenchand_">Sharp. [RR]</note> blade her boldly kept</l>
 <l>From turning backe, and forced her to stay:</l>
 <l>Therewith enrag’d she loudly gan to bray,</l>
 <l>And turning fierce, her speckled taile aduaunst,</l>
-<l>Threatning her angry sting, him to dismay:</l>
-<l>Who nought aghast, his mightie hand enhaunst:</l>
+<l>Threatning her angry sting, him to <ref target="dismay_" corresp="dismay">dismay</ref><note xml:id="dismay" target="dismay_">Defeat. [RR]</note>:</l>
+<l><ref target="aghast_" corresp="aghast">Who nought aghast</ref><note xml:id="aghast" target="aghast_">Redcross is unfazed. [RR]</note>, his mightie hand <ref target="enhaust_" corresp="enhaust">enhaunst</ref>
+    <note xml:id="enhaust" target="enhaust_">Raised up (Hamilton) [RR]</note>:</l>
 <l>The stroke down from her head vnto her shoulder glaunst.</l>
 </lg>
 <lg>
-<l n="xviii">Much daunted with that dint, her sence was dazd,</l>
+<l n="xviii">Much daunted with that <ref target="dint_" corresp="dint">dint</ref>
+    <note xml:id="dint" target="dint_">A blow. [RR]</note>, her sence was dazd,</l>
 <l>Yet kindling rage, her selfe she gathered round,</l>
-<l>And all attonce her beastly body raizd</l>
+<l>And all <ref target="attonce_" corresp="attonce">attonce</ref><note xml:id="attonce" target="attonce_">At once. [RR]</note> her beastly body raizd</l>
 <l>With doubled forces high aboue the ground:</l>
 <l>Tho wrapping vp her wrethed sterne arownd,</l>
 <l>Lept fierce vpon his shield, and her huge traine</l>
@@ -827,14 +869,15 @@ that belongs to Cupid, who has been described in the previous lines as the "crue
 <l>God helpe the man so wrapt in <hi rend="italic">Errours</hi> endlesse traine.</l>
 </lg>
 <lg>
-<l n="xix">His Lady sad to see his sore constraint,</l>
+<l n="xix"><ref target="Lady_" corresp="Lady">His Lady</ref><note xml:id="Lady" target="Lady_">Una, watching from the side. [RR]</note> sad to see his sore constraint,</l>
 <l>Cride out, Now now Sir knight, shew what ye bee,</l>
 <l>Add faith vnto your force, and be not faint:</l>
 <l>Strangle her, else she sure will strangle thee.</l>
-<l>That when he heard, in great perplexitie,</l>
-<l>His gall did grate for griefe and high disdaine,</l>
+<l>That when he heard, in great <ref target="perplexitie_" corresp="perplexitie">perplexitie</ref>
+    <note xml:id="perplexitie" target="perplexitie_">Literally, Redcrosse is entangled; psychologically and oralliy, he is distressed and confused. [RR]</note>,</l>
+<l>His <ref target="gall_" corresp="gall">gall</ref><note xml:id="gall" target="gall_">Source of jealousy or anger. [RR]</note> did grate for griefe and high disdaine,</l>
 <l>And knitting all his force got one hand free,</l>
-<l>Wherewith he grypt her gorge with so great paine,</l>
+<l>Wherewith he grypt her <ref target="gorge_" corresp="gorge">gorge</ref><note xml:id="gorge" target="gorge_">Errour's throat. [RR]</note> with so great paine,</l>
 <l>That soone to loose her wicked bands did her constraine.</l>
 </lg>
     <pb n="10" facs="pageImages/0038.jpg"/>
